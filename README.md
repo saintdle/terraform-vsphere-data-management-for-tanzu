@@ -4,6 +4,11 @@ This Terraform script deploys the initial appliances needed to stand up the Data
 
 * [Product Documentation](https://docs.vmware.com/en/Data-Management-for-VMware-Tanzu/1.0/tanzu-data-management/GUID-index.html)
 
+Supporting Blog posts I wrote about the product:
+
+* [Getting Started - Deploying and configuring the Provider and Agent Appliances](http://vexpert.me/dms-tanzu-getting-started)
+* [Depoloying Self Service Databases as an end user](http://vexpert.me/dms-self-service)
+
 ### Pre-Reqs
 
 Download the following files from the [Tanzu Network Product Page](https://network.pivotal.io/products/data-management-tanzu/#/releases/856549)
