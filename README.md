@@ -7,7 +7,7 @@ This Terraform script deploys the initial appliances needed to stand up the Data
 Supporting Blog posts I wrote about the product:
 
 * [Getting Started - Deploying and configuring the Provider and Agent Appliances](http://vexpert.me/dms-tanzu-getting-started)
-* [Depoloying Self Service Databases as an end user](http://vexpert.me/dms-self-service)
+* [Deploying Self Service Databases as an end user](http://vexpert.me/dms-self-service)
 
 ### Pre-Reqs
 
